@@ -32,8 +32,8 @@ To get started with QueryQuest, you’ll need to install the required libraries.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/QueryQuest.git
-   cd QueryQuest
+   git clone https://github.com/Jeff9497/QueryQuest28.git
+   cd QueryQuest28
    ```
 
 2. **Install Required Libraries:**
